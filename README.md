@@ -9,3 +9,14 @@
 Linux, Docker & Kubernetes, React.js, GraphQL, SQL, Mongo, Emacs & more. Anything tech.
 
 ## [Join our community by signing up for our newsletter!](https://truthseekers.io/latest-tutorials-signup/)
+
+### Instructions:
+
+1. in the api/src/index.js, swap out our mongo connection string with your own details.
+2. npm install in api/
+3. npm install in ui/
+4. Probably want to move a few things like passwords into an .env file.
+
+npm start in api/ and npm start in ui/ and you should be good to go.
+
+http://localhost/4000/graphql for the graphql playground.
