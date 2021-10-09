@@ -12,6 +12,8 @@ Linux, Docker & Kubernetes, React.js, GraphQL, SQL, Mongo, Emacs & more. Anythin
 
 ### Instructions:
 
+[blog post: Mongo graphql react starter](https://truthseekers.io/how-to-create-a-mongodb-graphql-and-react-app/)
+
 1. in the api/src/index.js, swap out our mongo connection string with your own details.
 2. npm install in api/
 3. npm install in ui/
