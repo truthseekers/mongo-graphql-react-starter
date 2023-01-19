@@ -1,0 +1,31 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+updated-starter-mongodb/ui/node_modules
+updated-starter-mongodb/api/node_modules
+updated-starter-mongodb/api/.env
+
+# dependencies
+old/ui/node_modules
+old/ui/.pnp
+old/ui/.pnp.js
+
+# testing
+old/ui/coverage
+
+# production
+old/ui/build
+
+# misc
+old/ui/.DS_Store
+old/ui/.env.local
+old/ui/.env.development.local
+old/ui/.env.test.local
+old/ui/.env.production.local
+
+old/ui/npm-debug.log*
+old/ui/yarn-debug.log*
+old/ui/yarn-error.log*
+
+old/ui/.env
+old/api/node_modules
+old/api/.env
